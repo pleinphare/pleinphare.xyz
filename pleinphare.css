@@ -1,0 +1,9 @@
+.hero h1 {
+	margin: 1em 0;
+	color: #555;
+}
+
+.hero a.use-btn, 
+.hero a.learn-btn {
+	margin-top: 15em;
+}
