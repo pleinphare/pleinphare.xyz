@@ -1,3 +1,12 @@
+a {
+	color: #333;
+}
+
+a:focus,
+a:hover {
+	color: #666;
+}
+
 .hero h1 {
 	margin: 1em 0;
 	color: #555;
@@ -13,5 +22,9 @@ ul.programme > li {
 }
 
 .download {
+	background-color: #B2AE96;
+}
+
+.features-slider {
 	background-color: #B2AE96;
 }
