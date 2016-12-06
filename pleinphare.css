@@ -32,3 +32,7 @@ ul.programme > li {
 .features-slider {
 	background-color: #B2AE96;
 }
+
+strong.big {
+	 font-size: 2em;
+ }
