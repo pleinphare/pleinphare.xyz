@@ -691,6 +691,11 @@ Features Slider
     color: #fff;
     font-size: 14px;
 }
+  .features-slider li p strong {
+      color: #fff;
+      font-size: 17px;
+
+}
 .features-intro-img {
     position: relative
 }
